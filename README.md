@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @ClaudiaShu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 My research interests focus on Artificial Intellience for healthcare. I am especially interested in using machine learning models to understand health-related statements and better facilitate them to downstream tasks.
+- 🌱 I’m currently a first year Ph.D. student based at the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) (AI) in the [Department of Computer Science](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk/) (UCL).
+- 📫 How to reach me:
+  - 📧 Email: yuxuan.shu.22@ucl.ac.uk
+  - 🌐 Webpage: [Yuxuan Shu's Webpage](https://claudiashu.github.io/)
 
 <!---
+- 💞️ I’m looking to collaborate on ...
 ClaudiaShu/ClaudiaShu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
