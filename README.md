@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ### Welcome to my github, this is Yuxuan(Claudia) Shu!
 
 
-**[Yuxuan Shu's personal website](https://claudiashu.github.io/)**
+<!-- **[Yuxuan Shu's personal website](https://claudiashu.github.io/)** -->
 
 
 <!-- ![Yuxuan Shu's github stats](https://github-readme-stats.vercel.app/api?username=ClaudiaShu&show_icons=true&count_private=true&hide=prs)<br> -->
