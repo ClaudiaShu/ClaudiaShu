@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaShu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-###å Projects
+### Projects
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ClaudiaShu&repo=SSL-FER&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
