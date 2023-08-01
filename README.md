@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 <!-- **[Yuxuan Shu's personal website](https://claudiashu.github.io/)** -->
 
 
-<!-- ![Yuxuan Shu's github stats](https://github-readme-stats.vercel.app/api?username=ClaudiaShu&show_icons=true&count_private=true&hide=prs)<br> -->
-![Yuxuan Shu's github stats](https://github-readme-stats.vercel.app/api?username=ClaudiaShu&rank_icon=github)<br>
+<!-- ![Yuxuan Shu's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ClaudiaShu&show_icons=true&count_private=true&hide=prs)<br> -->
+![Yuxuan Shu's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ClaudiaShu&rank_icon=github)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiaShu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ClaudiaShu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
