@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudiaShu
-- 👀 My research interests focus on Artificial Intelligence for healthcare. I am especially interested in using machine learning models to understand health-related statements.
-- 🌱 I’m currently a first year Ph.D. student based at the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) (AI) in the [Department of Computer Science](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk/) (UCL).
+- 👀 My research interests focus on Artificial Intelligence for healthcare and Time Series Forecasting.
+- 🌱 I’m currently a second year Ph.D. student based at the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) (AI) in the [Department of Computer Science](https://www.ucl.ac.uk/computer-science/) at [University College London](https://www.ucl.ac.uk/) (UCL).
 - 📫 How to reach me:
   - 📧 Email: yuxuan.shu.22(at)ucl.ac.uk
   - 🌐 Webpage: [Yuxuan Shu's Webpage](https://claudiashu.github.io/)
